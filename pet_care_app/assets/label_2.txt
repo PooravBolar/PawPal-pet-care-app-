@@ -1,0 +1,23 @@
+American Bulldog
+Basset Hound
+Beagle
+Boxer
+Chihuahua
+English Cocker Spaniel
+German Short-haired
+Great Pyrenees
+Havanese
+Japanese Chin
+Keeshond
+Leonberger
+Miniature Pinscher
+Newfoundland
+Pomeranian
+Pug
+Saint Bernard
+Samoyed
+Scottish Terrier
+Shiba Inu
+Staffordshire Bull Terrier
+Wheaten Terrier
+Yorkshire Terrier
